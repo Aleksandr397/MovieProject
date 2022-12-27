@@ -1,0 +1,19 @@
+{
+    "start_year" : 1900,
+    "end_year" : 2023,
+    "genres" : [
+        "comedy",
+        "adventure",
+        "horror",
+        "thriller",
+        "drama",
+        "western",
+        "animation",
+        "criminal",
+        "action",
+        "detective",
+        "war",
+        "sci-fi"
+    ]
+}
+
